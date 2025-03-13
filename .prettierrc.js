@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('@tunnckocore/prettier-config');
+module.exports = require('@i-devr-com/prettier-config');
